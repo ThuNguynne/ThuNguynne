@@ -50,6 +50,5 @@ My academic work spans the full analyst lifecycle — requirements elicitation, 
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen%20Anh%20Thu-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anh-thu-nguyen)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-2D6A4F?style=flat)](https://REPLACE-WITH-YOUR-PORTFOLIO-URL.com)
+[![LinkedIn](www.linkedin.com/in/anh-thư-nguyễn-b11278358)
 [![Email](https://img.shields.io/badge/Email-nguyenanhthuwu%40gmail.com-D14836?style=flat&logo=gmail)](mailto:nguyenanhthuwu@gmail.com)
