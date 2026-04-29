@@ -52,6 +52,6 @@ My academic projects have provided exposure to requirements analysis, systems de
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen%20Anh%20Thu-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/nguyenanhthuwu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen%20Anh%20Thu-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/nguyenanhthuwu)
 [![Email](https://img.shields.io/badge/Email-nguyenanhthuwu%40gmail.com-D14836?style=flat&logo=gmail)](mailto:nguyenanhthuwu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-thunguynne.github.io-1B263B?style=flat&logo=githubpages)](https://thunguynne.github.io/portfolio/)
